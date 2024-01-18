@@ -1,0 +1,18 @@
+.Container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+
+  .SubContainer {
+    width: 450px;
+    height: 780px;
+    background-color: #f68220;
+    border: 10px solid #fff;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin: 50px auto;
+  }
+}
